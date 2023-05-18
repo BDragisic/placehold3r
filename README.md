@@ -1,7 +1,7 @@
 # placehold3r
 
 ```
-A python script to detect default pages on a website.
+A python script to detect default pages on a website. Currently can detect the Apache2 and Nginx default pages along with Microsoft IIS version 7 and 10
 ```
 
 ### Usage
